@@ -1,6 +1,6 @@
-# memo
+# Memo
 
-A new Flutter project.
+memo project is my student project in yupparaj wittayalai school 
 
 ## Getting Started
 
