@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:memo/page/home.dart';
+import 'package:memo/page/mainpage.dart';
 
 class VerrifyScreen extends StatefulWidget {
   @override
@@ -47,7 +47,7 @@ class _VerifyScreenState extends State<VerrifyScreen> {
     await user.reload();
     if (user.emailVerified) {
       Navigator.of(context)
-          .pushReplacement(MaterialPageRoute(builder: (context) => Home()));
+          .pushReplacement(MaterialPageRoute(builder: (context) => MainPage()));
     }
   }
 }

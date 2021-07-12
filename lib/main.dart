@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/cupertino.dart';
+
 
 import 'package:memo/router.dart';
 
@@ -12,7 +12,7 @@ Future<Null> main() async {
   await Firebase.initializeApp().then((value) async {
     await FirebaseAuth.instance.authStateChanges().listen((event) {
       if (event != null) {
-        initialRoute = '/Home';
+        initialRoute = '/MainPage';
       }
       runApp(MyApp());
     });
