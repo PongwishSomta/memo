@@ -25,7 +25,7 @@ class _RegisterState extends State<Register> {
               onTap: () {
                 MaterialPageRoute materialPageRoute = MaterialPageRoute(
                     builder: (BuildContext context) => LoginPage());
-                Navigator.of(context).push(materialPageRoute);
+                Navigator.of(context).pop(materialPageRoute);
               },
               child: Icon(
                 Icons.arrow_back_ios,

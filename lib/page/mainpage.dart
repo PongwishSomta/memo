@@ -15,6 +15,7 @@ class MainPage extends StatefulWidget {
 
 class _MainPageState extends State<MainPage> {
   int pageIndex = 0;
+  
   List<Widget> pageList = <Widget>[
     Home(),
     Medical(),
@@ -37,6 +38,9 @@ class _MainPageState extends State<MainPage> {
         backgroundColor: Colors.white,
         selectedItemColor: Colors.blueAccent,
         unselectedItemColor: Colors.grey,
+        showSelectedLabels: false,
+        showUnselectedLabels: false,
+        iconSize: 30,
         type: BottomNavigationBarType.fixed,
         items: [
           BottomNavigationBarItem(

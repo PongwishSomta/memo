@@ -163,7 +163,7 @@ class _LoginPageState extends State<LoginPage> {
               await FirebaseAuth.instance
                   .signInWithEmailAndPassword(email: user, password: password)
                   .then((value) => Navigator.pushNamedAndRemoveUntil(
-                      context, '/MainPage', (route) => true));
+                      context, '/MainPage', (route) => false));
             } on FirebaseAuthException catch (e) {
               print(e.code);
               String massage;
