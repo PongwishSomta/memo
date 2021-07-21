@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:memo/page/activity.dart';
 import 'package:memo/page/alert.dart';
+import 'package:memo/page/date_widget.dart';
 import 'package:memo/page/home.dart';
 import 'package:memo/page/medical.dart';
 import 'package:memo/page/profile.dart';
@@ -18,7 +19,7 @@ class _MainPageState extends State<MainPage> {
   
   List<Widget> pageList = <Widget>[
     Home(),
-    Medical(),
+    CalendarWidget(),
     Activity(),
     Profile(),
   ];

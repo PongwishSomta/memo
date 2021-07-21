@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:memo/page/addactivity.dart';
 import 'package:memo/page/addmed.dart';
+import 'package:syncfusion_flutter_calendar/calendar.dart';
+
 
 class Activity extends StatefulWidget {
   @override
@@ -19,8 +21,11 @@ class _ActivityState extends State<Activity> {
       ),
       backgroundColor: Colors.blue[200],
       floatingActionButton: buildadd(),
+      
     );
   }
+
+ 
 
   Widget buildadd() {
     return FloatingActionButton(
@@ -31,6 +36,8 @@ class _ActivityState extends State<Activity> {
         Icons.add_rounded,
         color: Colors.white,
       ),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
+      elevation: 0,
     );
   }
 
@@ -71,8 +78,8 @@ class _ActivityState extends State<Activity> {
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      Navigator.push(context, 
-                      MaterialPageRoute(builder: (context) => Addmed()));
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) => Addmed()));
                     },
                     style: ElevatedButton.styleFrom(
                         shape: RoundedRectangleBorder(
