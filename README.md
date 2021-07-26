@@ -2,6 +2,10 @@
 
 memo project is my student project in yupparaj wittayalai school 
 
+link memo app : https://drive.google.com/drive/folders/1PR3pAZHTq0cGhQ7EuMyNJDt_WRKdfwgz?usp=sharing
+
+warning: alpha test system not stable if have issue plase leave issue thx
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
