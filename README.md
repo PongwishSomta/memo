@@ -15,13 +15,13 @@
 
 📱 memo app : https://drive.google.com/drive/folders/1PR3pAZHTq0cGhQ7EuMyNJDt_WRKdfwgz?usp=sharing
 
-###  MEMO APP
+##  MEMO APP
 
 ![image1-removebg-preview](https://user-images.githubusercontent.com/68066923/140950517-b88faea8-78c5-4121-9351-27bf4b608f5c.png)
 
 ![out](https://user-images.githubusercontent.com/68066923/140951823-6715b92b-89fa-4d71-b100-ce5a14a74f78.gif)
 
-### MEMO STACK 
+## MEMO STACK 
 
 MEMO DETECTION
 
@@ -43,4 +43,4 @@ MEMO VOICE ASSITANCE
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
-## COPYRIGHT YOUTH COM YRC 2020 
+### COPYRIGHT YOUTH COM YRC 2020 
