@@ -4,6 +4,7 @@
 มาใช้ในการแก้ปัญหา โดยมานำมาพัฒนาเป็นกล่อง ที่ผู้ป่วยสามารถ พูดคุยโต้ตอบได้ สามารถทำหน้าที่แทนผู้ช่วยส่วนตัวของผู้ป่วย สามารถแจ้งเตือน 
 เตือนความจำกิจวัตร ประจำวันต่างๆ และการใช้กล้อง ip camera  เพื่อคอยตรวจจับเหตุการล้มของผู้สูงอายุและสามารถช่วยเหลือได้อย่างทันท่วงที
 
+## FUCNTION AND FEATURE 
 Link memo app : https://drive.google.com/drive/folders/1PR3pAZHTq0cGhQ7EuMyNJDt_WRKdfwgz?usp=sharing
 
 Warning: alpha test system not stable if have issue plase leave issue THX
