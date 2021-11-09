@@ -4,10 +4,16 @@
 มาใช้ในการแก้ปัญหา โดยมานำมาพัฒนาเป็นกล่อง ที่ผู้ป่วยสามารถ พูดคุยโต้ตอบได้ สามารถทำหน้าที่แทนผู้ช่วยส่วนตัวของผู้ป่วย สามารถแจ้งเตือน 
 เตือนความจำกิจวัตร ประจำวันต่างๆ และการใช้กล้อง ip camera  เพื่อคอยตรวจจับเหตุการล้มของผู้สูงอายุและสามารถช่วยเหลือได้อย่างทันท่วงที
 
+📄เอกสารข้อเสนอโครงงาน : https://drive.google.com/file/d/1nLYGiLgSTzLh5mCuQaHoTfV9XKLyJRSw/view?usp=sharing 
+
+💻PowerPoint : https://docs.google.com/presentation/d/1wj7ZctS5G9he9nJWm9hYNkisA00Rg0xv/edit?usp=sharing&ouid=101774804851204445697&rtpof=true&sd=true
+
 ###  FUCNTION AND FEATURE 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+![โปสเตอร์ stem](https://user-images.githubusercontent.com/68066923/140950096-e3e6a9f0-50d2-459c-af87-4707abc87019.jpg)
+
 Link memo app : https://drive.google.com/drive/folders/1PR3pAZHTq0cGhQ7EuMyNJDt_WRKdfwgz?usp=sharing
 
-Warning: alpha test system not stable if have issue plase leave issue THX
+
 
 
