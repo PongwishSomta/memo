@@ -1,4 +1,4 @@
-# Memo
+# ระบบช่วยเหลือและดูแลผู้ป่วยอัลไซเมอร์ MEMO
 
 memo project is my student project in yupparaj wittayalai school 
 
