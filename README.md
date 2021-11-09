@@ -5,6 +5,7 @@
 เตือนความจำกิจวัตร ประจำวันต่างๆ และการใช้กล้อง ip camera  เพื่อคอยตรวจจับเหตุการล้มของผู้สูงอายุและสามารถช่วยเหลือได้อย่างทันท่วงที
 
 ###  FUCNTION AND FEATURE 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 Link memo app : https://drive.google.com/drive/folders/1PR3pAZHTq0cGhQ7EuMyNJDt_WRKdfwgz?usp=sharing
 
 Warning: alpha test system not stable if have issue plase leave issue THX
